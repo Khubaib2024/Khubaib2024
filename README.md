@@ -6,10 +6,15 @@
 
 
 
-- 🌱 I’m currently learning Coding
+. 🌱 I’m currently learning Coding
 
   
-- 📫 How to reach me: mka4140141@gmail.com
-- 😄 Pronouns: he/his
-  
--->
+. 📫 How to reach me: mka4140141@gmail.com
+. 😄 Pronouns: he/his
+.  languages : C++
+     
+
+
+
+
+
