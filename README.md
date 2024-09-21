@@ -1,6 +1,6 @@
 # Hi there 👋 I am Muhammad Khubaib Asif
-##         A passionate programmer from Pakistan
-###           I am a student of BSCS
+       ##    A passionate programmer from Pakistan
+          ###   I am a student of BSCS
 
 
 
