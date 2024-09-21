@@ -17,7 +17,9 @@
 
 .  languages : C++  
 
-![c-logo](https://github.com/user-attachments/assets/8b073fc2-e244-4f39-ad10-ec72918d6d72)
+![image](https://github.com/user-attachments/assets/355f7833-d2ca-4074-8d61-a1c62bbc69a2)
+
+
 
      
 
